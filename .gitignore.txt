@@ -1,0 +1,9 @@
+build/
+build-*/
+*.user
+*.autosave
+*.o
+*.obj
+*.exe
+debug/
+release/
